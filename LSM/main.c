@@ -18,6 +18,7 @@ int main(int argc, char *argv[]) {
 	bool respuesta=verificacionoracion(Oracion);
 	
 	printf("%b",respuesta);
+	printf("prueba");
 	
 
 	
